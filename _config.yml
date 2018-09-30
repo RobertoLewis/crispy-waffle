@@ -8,8 +8,7 @@ g_analytics: UA-12345678-1
 # bio
 header: Roberto
 desc: >
-  A Portfolio. Louie is free, lightweight,
-  and customizable as a blog, archive, or portfolio.
+  A Portfolio.
 
 # posts
 date_format: "%Y"
