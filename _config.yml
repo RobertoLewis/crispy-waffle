@@ -1,5 +1,5 @@
 # site
-title: Louie
+title: Roberto Lewis
 baseurl: "/louie"
 url: "http://lily.work"
 favicon: "/assets/sample/ico.png"
@@ -8,14 +8,14 @@ g_analytics: UA-12345678-1
 # bio
 header: Louie
 desc: >
-  A Jekyll theme (that looks awesome). Louie is free, lightweight,
+  A Portfolio. Louie is free, lightweight,
   and customizable as a blog, archive, or portfolio.
 
 # posts
 date_format: "%Y"
-post_title: Story
+post_title: Title
 post_date: Year
-post_cat: Genre
+post_cat: Type
 
 # post detail
 prev-next: true
