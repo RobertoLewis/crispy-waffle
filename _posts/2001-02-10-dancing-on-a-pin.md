@@ -1,10 +1,12 @@
 ---
 layout: post
-title:  Dancing on a Pin
+title:  take a trip through taste: italy edition
 author: Gary E. Holland
-category: Memoir
+category: blog post
 img: https://images.unsplash.com/photo-1469507014779-a64b535f8e5f?dpr=2&auto=format&fit=crop&w=1500&h=1000&q=80&cs=tinysrgb&crop=
 ---
+
+If you’ve been following along with us as we share a few of our select favorite European cuisines, then chances are you’ve also been anticipating our tasting “arrival” in Italy. Any conversation about Italian culture would feel incomplete without an acknowledgment of its incredible food. The cured and roasted meats like Prosciutto Di Parma and Porchetta, the creamy cheeses like Bufala and Provolone, and the many pastas and wines of Italy are all legendary; and this month we are featuring stellar examples of each. You’ll truly have everything you need to put together a dazzling Italian dinner of your own. Here are just a few of the Italian imports we’re excited to share with you.
 
 We had never talked of religion, but we often talked of marriage.
 
