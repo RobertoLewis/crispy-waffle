@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  take a trip through taste: italy edition
+title:  gimme the fries
 author: Gary E. Holland
 category: blog post
 img: https://images.unsplash.com/photo-1469507014779-a64b535f8e5f?dpr=2&auto=format&fit=crop&w=1500&h=1000&q=80&cs=tinysrgb&crop=
