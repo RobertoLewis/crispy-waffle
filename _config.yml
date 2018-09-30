@@ -1,12 +1,12 @@
 # site
 title: Roberto Lewis
-baseurl: "/louie"
+baseurl: "/louie/"
 url: ""
 favicon: "/assets/sample/ico.png"
 g_analytics: UA-12345678-1
 
 # bio
-header: Louie
+header: Roberto
 desc: >
   A Portfolio. Louie is free, lightweight,
   and customizable as a blog, archive, or portfolio.
