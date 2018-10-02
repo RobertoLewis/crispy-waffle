@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Provolone Rediscovered&#58; Don Giovanni Auricchio&#39;s Secret Recipe
+title: Provolone Rediscovered Don Giovanni Auricchios Secret Recipe
 author: Roberto Lewis
 category: blog post
 img: 
