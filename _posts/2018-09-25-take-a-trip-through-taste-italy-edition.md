@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Take a Trip Through Taste: Italy Edition
+title: Take a Trip Through Taste - Italy Edition
 author: Roberto Lewis
 category: blog post
 img: 
