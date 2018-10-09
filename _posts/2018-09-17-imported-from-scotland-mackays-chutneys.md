@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Imported from Scotland - Mackays' Chutneys
+title: Imported from Scotland - Mackays Chutneys
 author: Roberto Lewis
 category: blog post
 img: 
