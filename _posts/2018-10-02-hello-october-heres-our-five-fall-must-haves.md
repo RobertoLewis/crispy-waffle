@@ -2,7 +2,7 @@
 layout: post
 title:  Hello, October - Here's Our Five Fall Must Haves
 author: Roberto Lewis
-Category: blog post
+category: blog post
 img: 
 ---
 
