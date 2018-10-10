@@ -3,7 +3,7 @@ layout: post
 title: French Breakfast With Bonne Maman Preserves
 author: Roberto Lewis
 category: blog post
-img: 
+img: http://www.robertolewis.com/wp/wordpress/wp-content/uploads/2018/10/CHEE_FAW_French-Charcuterie-2017-2-768x1152.jpg
 ---
 
 **French Breakfast With Bonne Maman Preserves**
