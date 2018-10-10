@@ -3,7 +3,7 @@ layout: post
 title:  It's Okay to Lick the Spoon - Our Very Own Southern California Local Raw Honey
 author: Roberto Lewis
 category: blog post
-img: 
+img: http://www.robertolewis.com/wp/wordpress/wp-content/uploads/2018/10/BFPVL_GROC_Honey_2018-18.jpg
 ---
 
 **[It's Okay to Lick the Spoon: Our Very Own Southern California Local Raw Honey][id]**
