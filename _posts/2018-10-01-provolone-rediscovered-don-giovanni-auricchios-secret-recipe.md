@@ -3,7 +3,7 @@ layout: post
 title: Provolone Rediscovered - Don Giovanni Auricchio's Secret Recipe
 author: Roberto Lewis
 category: blog post
-img: 
+img: http://www.robertolewis.com/wp/wordpress/wp-content/uploads/2018/10/CHEE_GROUP_Charcuterie_Italy_FAW_2018-03.jpg
 ---
 
 **[Provolone Rediscovered: Don Giovanni Auricchio's Secret Recipe][id]**
