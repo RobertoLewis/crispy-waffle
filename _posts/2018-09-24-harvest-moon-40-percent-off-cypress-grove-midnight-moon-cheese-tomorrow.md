@@ -3,7 +3,7 @@ layout: post
 title: Harvest Moon = 40% off Cypress Grove Midnight Moon Cheese Tomorrow!
 author: Roberto Lewis
 category: blog post
-img: 
+img: http://www.robertolewis.com/wp/wordpress/wp-content/uploads/2018/10/midnight-moon.jpg
 ---
 
 **Harvest Moon = 40% off Cypress Grove Midnight Moon Cheese Tomorrow!**
