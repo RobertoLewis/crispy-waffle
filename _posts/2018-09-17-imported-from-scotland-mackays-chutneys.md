@@ -3,7 +3,7 @@ layout: post
 title: Imported from Scotland - Mackays Chutneys
 author: Roberto Lewis
 category: blog post
-img: 
+img: http://www.robertolewis.com/wp/wordpress/wp-content/uploads/2018/10/CHEE_GROUP_Scotland_FAW_2018-02.jpg
 ---
 
 **Imported from Scotland: Mackays' Chutneys**
