@@ -6,9 +6,9 @@ favicon: "/assets/sample/ico.png"
 g_analytics: UA-12345678-1
 
 # bio
-header: Roberto
+header: Roberto Lewis
 desc: >
-  A Portfolio.
+  Hi.
 
 # posts
 date_format: "%Y"
